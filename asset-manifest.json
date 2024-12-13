@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bayanify-jobs/static/css/main.9fffb316.css",
-    "main.js": "/bayanify-jobs/static/js/main.320686ad.js",
+    "main.css": "/bayanify-jobs/static/css/main.4b358730.css",
+    "main.js": "/bayanify-jobs/static/js/main.d90dc6f8.js",
     "index.html": "/bayanify-jobs/index.html",
-    "main.9fffb316.css.map": "/bayanify-jobs/static/css/main.9fffb316.css.map",
-    "main.320686ad.js.map": "/bayanify-jobs/static/js/main.320686ad.js.map"
+    "main.4b358730.css.map": "/bayanify-jobs/static/css/main.4b358730.css.map",
+    "main.d90dc6f8.js.map": "/bayanify-jobs/static/js/main.d90dc6f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fffb316.css",
-    "static/js/main.320686ad.js"
+    "static/css/main.4b358730.css",
+    "static/js/main.d90dc6f8.js"
   ]
 }
