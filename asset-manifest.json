@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bayanify-jobs/static/css/main.6ed27694.css",
+    "main.js": "/bayanify-jobs/static/js/main.699f9492.js",
+    "index.html": "/bayanify-jobs/index.html",
+    "main.6ed27694.css.map": "/bayanify-jobs/static/css/main.6ed27694.css.map",
+    "main.699f9492.js.map": "/bayanify-jobs/static/js/main.699f9492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed27694.css",
+    "static/js/main.699f9492.js"
+  ]
+}
