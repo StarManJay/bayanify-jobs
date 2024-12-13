@@ -2,13 +2,12 @@
   "name": "bayanify-jobs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://starmanjay.github.io/bayanify-jobs",
   "dependencies": {
-    "@tanstack/react-query": "^5.62.7",
+    "@tanstack/react-query": "^4.36.1",
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
-    "cra-template": "1.2.0",
-    "gh-pages": "^6.2.0",
-    "lucide-react": "^0.468.0",
+    "lucide-react": "^0.263.1",
     "postcss": "^8.4.49",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -23,23 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "homepage": "https://starmanjay.github.io/bayanify-jobs"
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
